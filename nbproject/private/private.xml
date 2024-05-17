@@ -3,9 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/marol/Desktop/TransfiereYa/src/conexion/Conexion.java</file>
             <file>file:/C:/Users/marol/Desktop/TransfiereYa/src/vista/InterTransaccion.java</file>
+            <file>file:/C:/Users/marol/Desktop/TransfiereYa/src/vista/InterUsuario.java</file>
+            <file>file:/C:/Users/marol/Desktop/TransfiereYa/src/controlador/HashUtil.java</file>
             <file>file:/C:/Users/marol/Desktop/TransfiereYa/src/controlador/Ctrl_Transaccion.java</file>
             <file>file:/C:/Users/marol/Desktop/TransfiereYa/src/controlador/Ctrl_Usuario.java</file>
+            <file>file:/C:/Users/marol/Desktop/TransfiereYa/src/vista/InterGestionarUsuario.java</file>
+            <file>file:/C:/Users/marol/Desktop/TransfiereYa/src/vista/FrmMenu.java</file>
             <file>file:/C:/Users/marol/Desktop/TransfiereYa/src/vista/FrmLogin.java</file>
         </group>
     </open-files>
